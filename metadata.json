@@ -1,0 +1,7 @@
+{
+  "name": "Pablo Candela - Coaching y Liderazgo",
+  "description": "Liderazgo y comunicación con impacto para mandos medios y dueños de pymes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
