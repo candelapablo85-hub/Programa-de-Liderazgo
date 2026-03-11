@@ -65,15 +65,15 @@ const Hero: React.FC = () => {
             <div className="relative rounded-[2.5rem] overflow-hidden shadow-2xl bg-slate-200 ring-8 ring-slate-50">
               <div className="absolute inset-0 bg-slate-900/10 mix-blend-multiply z-10"></div>
               <img
-                className="w-full h-[55vh] lg:h-[85vh] object-cover object-top scale-105 group-hover:scale-100 transition-transform duration-700"
+                className="w-full h-[60vh] sm:h-[65vh] lg:h-[85vh] object-cover object-center lg:object-top scale-105 group-hover:scale-100 transition-transform duration-700"
                 src="/imagenes/Foto%20perfil.png"
                 alt="Pablo Candela - Coaching y Liderazgo"
               />
-              <div className="absolute bottom-0 left-0 right-0 p-10 pt-32 bg-gradient-to-t from-slate-950 via-slate-950/90 to-transparent z-20">
-                <p className="text-white font-serif text-xl lg:text-2xl font-bold leading-tight">
+              <div className="absolute bottom-0 left-0 right-0 p-6 lg:p-10 pt-24 lg:pt-32 bg-gradient-to-t from-slate-950 via-slate-950/90 to-transparent z-20">
+                <p className="text-white font-serif text-xl sm:text-2xl font-bold leading-tight">
                   "El liderazgo no es un cargo, es una actitud."
                 </p>
-                <p className="text-indigo-400 font-bold uppercase tracking-widest text-[14px] mt-4">Pablo Candela — Coaching y Liderazgo</p>
+                <p className="text-indigo-400 font-bold uppercase tracking-widest text-xs sm:text-[14px] mt-2 sm:mt-4">Pablo Candela — Coaching y Liderazgo</p>
               </div>
             </div>
 
