@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
               <span className="w-2 h-2 rounded-full bg-[#b45239] animate-pulse"></span>
               Coaching de Liderazgo Real
             </div>
-            <h1 className="text-4xl tracking-tight font-serif font-bold text-slate-950 sm:text-5xl lg:text-6xl xl:text-7xl leading-tight">
+            <h1 className="text-2xl tracking-tight font-serif font-bold text-slate-950 sm:text-3xl lg:text-4xl xl:text-5xl leading-tight">
               Liderá con autoridad, <span className="text-[#b45239]">gestioná con resultados</span>.
             </h1>
             <p className="mt-8 text-xl text-slate-600 leading-relaxed max-w-xl">
@@ -70,7 +70,7 @@ const Hero: React.FC = () => {
                 alt="Pablo Candela - Coaching y Liderazgo"
               />
               <div className="absolute bottom-0 left-0 right-0 p-10 pt-32 bg-gradient-to-t from-slate-950 via-slate-950/90 to-transparent z-20">
-                <p className="text-white font-serif text-3xl lg:text-4xl font-bold leading-tight">
+                <p className="text-white font-serif text-xl lg:text-2xl font-bold leading-tight">
                   "El liderazgo no es un cargo, es una actitud."
                 </p>
                 <p className="text-indigo-400 font-bold uppercase tracking-widest text-[14px] mt-4">Pablo Candela — Coaching y Liderazgo</p>
