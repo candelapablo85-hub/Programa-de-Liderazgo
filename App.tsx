@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import Diagnostic from './components/Diagnostic';
 import LeadershipPillars from './components/Problem';
 import Services from './components/Services';
 import Benefits from './components/Benefits';
@@ -20,6 +21,7 @@ const App: React.FC = () => {
         <div id="inicio">
           <Hero />
         </div>
+        <Diagnostic />
         <LeadershipPillars />
         <Services />
         <Benefits />
