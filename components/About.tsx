@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 Como supervisor en la industria, entendí que el compromiso de un equipo bajo presión es el motor de la operación. Mi fuerte es liderar personas en entornos donde los objetivos son claros y los márgenes de error, mínimos.
               </p>
               <p>
-                Acompaño a líderes a mejorar su forma de comunicar, fortalecer sus equipos y abordar los desafíos humanos con criterio, para lograr una conducción más clara, firme y efectiva.
+                Como coach, acompaño a líderes a mejorar su forma de comunicar, fortalecer sus equipos y abordar los desafíos humanos con criterio, para lograr una conducción más clara, firme y efectiva.
               </p>
             </div>
 
